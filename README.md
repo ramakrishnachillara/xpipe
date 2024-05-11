@@ -10,7 +10,7 @@ You can then use this repository in all XPipe application instances the same way
 
 ## Connection list
 
-No connections were shared. Please make sure that some categories are shared and the connections are sharable. Anything related to the local machine for example is not sharable.
+- [**Oracle Cloud** | oc-ws02 - 144.24.147.68](stores/31383563-600c-4184-96a8-6f5e58256830)
 
 ## Additional data
 

@@ -6,7 +6,7 @@ You can then use this repository in all XPipe application instances the same way
 
 ## Category list
 
-- [**New category**](categories/390817b1-f071-4d08-a6cf-0b4cc249733e)
+- [**Oracle Cloud**](categories/390817b1-f071-4d08-a6cf-0b4cc249733e)
 
 ## Connection list
 

@@ -1,0 +1,8 @@
+{
+  "uuid" : "0b285249-b1c7-4159-a499-9cd8e640cba6",
+  "name" : "nginx-proxy",
+  "categoryUuid" : "390817b1-f071-4d08-a6cf-0b4cc249733e",
+  "configuration" : {
+    "deletable" : true
+  }
+}

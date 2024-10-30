@@ -1,0 +1,10 @@
+{
+  "uuid" : "ff12dd35-3f3c-4a5e-aeb3-86e986b2ffe8",
+  "name" : "root",
+  "categoryUuid" : "390817b1-f071-4d08-a6cf-0b4cc249733e",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

@@ -24,6 +24,7 @@ You can sync with this repository in all XPipe application instances the same wa
   - [**LXD**](stores/2bab33d0-6451-45c9-a251-a53be0b6c301)
   - [**Shell Environments**](stores/63289696-122b-3c47-a8c9-0989843f1293)
     - [**root**](stores/ff12dd35-3f3c-4a5e-aeb3-86e986b2ffe8)
+  - [**Teleport**](stores/dd684490-487b-4359-b77c-385418f10873)
 
 
 ## Secret encryption

@@ -6,5 +6,9 @@
   "dontCachePasswords" : false,
   "denyTempScriptCreation" : false,
   "encryptAllVaultData" : false,
-  "workspaceLock" : null
+  "workspaceLock" : null,
+  "dontAllowTerminalRestart" : false,
+  "enableHttpApi" : false,
+  "passwordManager" : null,
+  "apiKey" : "3d6b7a82-cbed-49ee-8741-63ec1b4aa749"
 }

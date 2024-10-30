@@ -1,7 +1,0 @@
-{
-  "type" : "docker",
-  "cmd" : {
-    "storeId" : "024dcd8d-67a4-411f-ada1-ae9af20d0679"
-  },
-  "containerName" : "nginx-proxy"
-}

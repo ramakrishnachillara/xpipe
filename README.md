@@ -15,6 +15,9 @@ You can sync with this repository in all XPipe application instances the same wa
 **All connections / Oracle Cloud**
 
 - [**OC01-ubuntu-152.67.182.131**](stores/0c8bb798-d441-47f4-b72e-44549cd8ac08)
+  - [**Shell Environments**](stores/41f256e8-865e-3a3a-9f51-d6e0f5a7784a)
+    - [**bash**](stores/9ee33878-79a0-4cda-84f7-833d0c1e392a)
+    - [**root**](stores/acb2d51e-9249-4184-a7ac-6ab73a26aef4)
 
 
 ## Secret encryption

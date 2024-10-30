@@ -21,6 +21,8 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/7edac009-1d1d-42e7-aa76-4f2618c0f8d5)
     - [**root**](stores/acb2d51e-9249-4184-a7ac-6ab73a26aef4)
 - [**OC02-Ubuntu-150.230.142.107**](stores/99cb56f2-3e67-4737-8394-fcc536e1d29a)
+  - [**Shell Environments**](stores/63289696-122b-3c47-a8c9-0989843f1293)
+    - [**root**](stores/ff12dd35-3f3c-4a5e-aeb3-86e986b2ffe8)
 
 
 ## Secret encryption

@@ -20,7 +20,6 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**bash**](stores/77d34711-7c07-464f-83fa-83d11408f228)
     - [**dash**](stores/ed59ca6b-9ae1-441b-860b-41ba4bca7f5e)
     - [**root**](stores/2ef790e5-ef7d-4a3e-9091-859252ffe2d8)
-- [**OC-WS02 - 144.24.147.68**](stores/31383563-600c-4184-96a8-6f5e58256830)
 
 
 ## Secret encryption

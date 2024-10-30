@@ -14,7 +14,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / Oracle Cloud**
 
-- [**OC01-ubuntu-152.67.182.131**](stores/0c8bb798-d441-47f4-b72e-44549cd8ac08)
+- [**OC01-ubuntu-140.245.238.242**](stores/0c8bb798-d441-47f4-b72e-44549cd8ac08)
   - [**LXD**](stores/fc96b338-bf28-458d-ba74-1c6dedc82793)
   - [**Shell Environments**](stores/41f256e8-865e-3a3a-9f51-d6e0f5a7784a)
     - [**bash**](stores/9ee33878-79a0-4cda-84f7-833d0c1e392a)

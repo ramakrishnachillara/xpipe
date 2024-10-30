@@ -2,6 +2,8 @@
   "uuid" : "ed59ca6b-9ae1-441b-860b-41ba4bca7f5e",
   "name" : "dash",
   "categoryUuid" : "390817b1-f071-4d08-a6cf-0b4cc249733e",
+  "color" : null,
+  "icon" : null,
   "configuration" : {
     "deletable" : true
   }
